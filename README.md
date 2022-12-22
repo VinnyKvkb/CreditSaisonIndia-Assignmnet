@@ -19,6 +19,7 @@ http://localhost:8080
 **NOTE  :**  Application Deployed on EC2 Cloud and Database Also Deployed in cloud.
 But Requesting you to run in Local Machine Only Due to Low to Moderate Performance from t2.micro  Instance type in free tier .So APIS are giving timeout Exception In cloud most of the times]
 If you find any difficulty in making the build then download the jar from the below link fallow the below steps.
+https://drive.google.com/file/d/1UFuGW-5F8d-_3OlkHL8YyAI17X2_A9cx/view?usp=share_link
 	1.Open cmd from the folder where the jar file located.
 	2. Run the command ->   java –jar  FoodTruck-Service-0.0.1-SNAPSHOT.jar
 	3. Consume the API’s on Localhost
